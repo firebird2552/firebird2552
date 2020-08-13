@@ -42,12 +42,12 @@
 
 ### Languages / Tools / Frameworks / Libraries
 
-| Languages           | Tools                     | Frameworls              |
-| ------------------- | ------------------------- | ----------------------- |
-| :heartpulse: HTML5  | :heart: VS Code           | :sparkling_heart: React |
-| :heart: CSS         | Unity                     | Angular                 |
-| :heart: JavaScript  | :heartpulse:Git           | :heart: React Native    |
-| :broken_heart: Java | Android Studio            | :heart: Bootstrap       |
-| C#                  | Dreamweaver               | Font-Awesome            |
-| C++                 | Eclipse                   |                         |
-|                     | Node (NPM & :heart: Yarn) |                         |
+| Languages               | Tools                     | Frameworls              |
+| ----------------------- | ------------------------- | ----------------------- |
+| :sparkling_heart: HTML5 | :heart: VS Code           | :sparkling_heart: React |
+| :heart: CSS             | Unity                     | Angular                 |
+| d:heart: JavaScript     | :sparkling_heart: Git     | :heart: React Native    |
+| :broken_heart: Java     | Android Studio            | :heart: Bootstrap       |
+| C#                      | Dreamweaver               | Font-Awesome            |
+| C++                     | Eclipse                   |                         |
+|                         | Node (NPM & :heart: Yarn) |                         |
