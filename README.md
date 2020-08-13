@@ -2,7 +2,7 @@
 
 ## Hello I am Thomas - AKA Fordorth
 
-### I have been with my wife for 15 years, we have 3 amazing children
+### :family: I have been with my :couplekiss: wife for 15 years, we have 3 amazing children
 
 #### Goals
 
@@ -42,12 +42,12 @@
 
 ### Languages / Tools / Frameworks / Libraries
 
-| Languages           | Tools             | Frameworls              |
-| ------------------- | ----------------- | ----------------------- |
-| :heart: HTML5       | :heart: VS Code   | :sprakling_heart: React |
-| :heart: CSS         | Unity             | Angular                 |
-| :heart: JavaScript  | Git               | :heart: React Native    |
-| :broken_heart: Java | Android Studio    | :heart: Bootstrap       |
-| C#                  | Dreamweaver       | Font-Awesome            |
-| C++                 | Eclipse           |                         |
-|                     | Node (NPM & Yarn) |                         |
+| Languages           | Tools                     | Frameworls              |
+| ------------------- | ------------------------- | ----------------------- |
+| :heartpulse: HTML5  | :heart: VS Code           | :sparkling_heart: React |
+| :heart: CSS         | Unity                     | Angular                 |
+| :heart: JavaScript  | :heartpulse:Git           | :heart: React Native    |
+| :broken_heart: Java | Android Studio            | :heart: Bootstrap       |
+| C#                  | Dreamweaver               | Font-Awesome            |
+| C++                 | Eclipse                   |                         |
+|                     | Node (NPM & :heart: Yarn) |                         |
