@@ -32,7 +32,7 @@
 | ----------------------- | ------------------------- | ----------------------- |
 | :sparkling_heart: HTML5 | :heart: VS Code           | :sparkling_heart: React |
 | :heart: CSS             | Unity                     | Angular                 |
-| 💖: JavaScript           :sparkling_heart: Git     | :heart: React Native    |
+| 💖: JavaScript         | :sparkling_heart: Git     | :heart: React Native    |
 | :broken_heart: Java     | Android Studio            | :heart: Bootstrap       |
 | C#                      | Dreamweaver               | Font-Awesome            |
 | C++                     | Eclipse                   |                         |
