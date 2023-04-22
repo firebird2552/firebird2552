@@ -2,7 +2,6 @@
 
 ## My Goals
 
----
 ### 2023
 
 - [ ] Get the AWS Cloud Practitioner Certification
