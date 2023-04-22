@@ -3,13 +3,19 @@
 ## My Goals
 
 ---
+### 2023
+
+- [ ] Get the AWS Cloud Practitioner Certification
+- [ ] Get my A+ Certification
+- [ ] Participate in a game jam
+- [ ] Learn Ruby & Ruby on Rails
 
 ### 2022
 
-- [ ] Finish the [Full Stack Development specializtation from Bottega](https://www.coursera.org/specializations/full-stack-react)
+- [X] Finish the [Full Stack Development specializtation from Bottega](https://www.coursera.org/specializations/full-stack-react)
 - [ ] Complete my Freelance Website
-- [ ] Update [Pikapedia](https://pikapedia.net)
-- [ ] 6 kyu on [CodeWars](https://www.codewars.com/users/Firebird2552/stats)
+- [X] Update [Pikapedia](https://pikapedia.net)
+- [ ] ~ 6 kyu on [CodeWars](https://www.codewars.com/users/Firebird2552/stats) ~
 
 ## Connect with me
 
