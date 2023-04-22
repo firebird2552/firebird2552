@@ -8,6 +8,7 @@
 - [ ] Get my A+ Certification
 - [ ] Participate in a game jam
 - [ ] Learn Ruby & Ruby on Rails
+- [ ] Finish my Stargate-API and create a front end for it.
 
 ### 2022
 
@@ -27,6 +28,13 @@
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" width="25px" alt="Instagram" align="left" />[instagram](https://www.instagram.com/thomas.l.gould/)
 
 ## Projects
+[Pikapedia.net](https://github.com/firebird2552/pikapedia) - A Front end design for Pokemon that attaches to the API Pokapi.co
+Front-End:
+
+- React
+- HTML5
+- CSS
+- Axios
 
 [Diner_Menu](https://github.com/firebird2552/Diner_Menu) - a web interface for a diner menu that allows a user to select items for a meal.
 Front-end:
