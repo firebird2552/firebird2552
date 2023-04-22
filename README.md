@@ -13,9 +13,9 @@
 ### 2022
 
 - [X] Finish the [Full Stack Development specializtation from Bottega](https://www.coursera.org/specializations/full-stack-react)
-- [ ] Complete my Freelance Website
+- [ ] ~~Complete my Freelance Website ~~
 - [X] Update [Pikapedia](https://pikapedia.net)
-- [ ] ~ 6 kyu on [CodeWars](https://www.codewars.com/users/Firebird2552/stats) ~
+- [ ] ~~6 kyu on [CodeWars](https://www.codewars.com/users/Firebird2552/stats) ~~
 
 ## Connect with me
 
