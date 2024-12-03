@@ -20,16 +20,16 @@ With 20 years of experience exploring various programming languages, I’ve rece
 
 - [ ] Complete [Advent of Code](https://adventofcode.com/)
 - [ ] Complete [Advent of Cyber](https://tryhackme.com/r/room/adventofcyber2024)
+- [ ] Rewrite Pikapedia using new knowledge
 - [x] Become an SDE 1 @ Amazon
 
 ### 2023 (Last Year)
 
-- [ ] Get the AWS Cloud Practitioner Certification
-- [ ] Get my A+ Certification
-- [ ] Participate in a Game Jam
-- [ ] Learn Ruby & Ruby on Rails
-- [ ] Finish my Stargate-API and create a front end for it.
-
+- [ ] Get the AWS Cloud Practitioner Certification (postponed)
+- [ ] ~~Get my A+ Certification~~
+- [ ] ~~Participate in a Game Jam~~
+- [ ] ~~Learn Ruby & Ruby on Rails~~
+- [ ] ~~Finish my Stargate-API and create a front end for it.~~
 
 ## Connect with me
 
@@ -38,16 +38,17 @@ With 20 years of experience exploring various programming languages, I’ve rece
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thomas-gould-77a76461/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thomas.l.gould/)
 
-
 ## Projects
 
 [Pikapedia.net](https://github.com/firebird2552/pikapedia) - A Front end design for Pokemon that attaches to the API Pokapi.co
 Front-End:
 
-- React
-- HTML5
-- CSS
-- Axios
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
+
 
 ## Languages / Tools / Frameworks / Libraries
 
@@ -56,6 +57,7 @@ Front-End:
 #### Front-end
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
 #### Scripting
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)![GDScript](https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
@@ -64,7 +66,7 @@ Front-End:
 
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 
-### Frameworks:
+### Frameworks
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
@@ -89,19 +91,24 @@ Front-End:
 
 ## Educational Journey: Bachelor of Arts in Computer Science
 
-Progress Summary
+### Progress Summary
 
     Completed Courses:
-    Core courses in Web Development, Programming Foundations, Critical Thinking, and Management Principles.
+    Core courses
+        Web Development
+        Programming Foundations
+        Critical Thinking
+        Management Principles.
     Highlights include:
         Web Development Applications (Front-End & Back-End)
         Scripting and Programming Foundations
         Principles of Management
         Composition and Critical Thinking
-
+---
     Currently Enrolled:
     Focused on Communication, Applied Probability and Statistics, and Composition.
 
+---
     Upcoming Highlights:
     Advanced coursework in:
         Cloud Foundations
@@ -109,7 +116,3 @@ Progress Summary
         User Interface Design
         Data Management
         Project Management
-
-Capstone
-
-    Planning a capstone project to integrate skills in software development, cloud computing, and user experience design.
